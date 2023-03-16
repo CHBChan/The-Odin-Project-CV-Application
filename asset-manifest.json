@@ -1,13 +1,13 @@
 {
-  "main.css": "/CHBChan/The-Odin-Project-CV-Application/static/css/main.92c8411b.chunk.css",
-  "main.js": "/CHBChan/The-Odin-Project-CV-Application/static/js/main.b054ee40.chunk.js",
-  "main.js.map": "/CHBChan/The-Odin-Project-CV-Application/static/js/main.b054ee40.chunk.js.map",
-  "runtime~main.js": "/CHBChan/The-Odin-Project-CV-Application/static/js/runtime~main.a3bddf5b.js",
-  "runtime~main.js.map": "/CHBChan/The-Odin-Project-CV-Application/static/js/runtime~main.a3bddf5b.js.map",
-  "static/js/2.85d2df72.chunk.js": "/CHBChan/The-Odin-Project-CV-Application/static/js/2.85d2df72.chunk.js",
-  "static/js/2.85d2df72.chunk.js.map": "/CHBChan/The-Odin-Project-CV-Application/static/js/2.85d2df72.chunk.js.map",
-  "index.html": "/CHBChan/The-Odin-Project-CV-Application/index.html",
-  "precache-manifest.64313c916d3da3a1e38a8a8045f0a91d.js": "/CHBChan/The-Odin-Project-CV-Application/precache-manifest.64313c916d3da3a1e38a8a8045f0a91d.js",
-  "service-worker.js": "/CHBChan/The-Odin-Project-CV-Application/service-worker.js",
-  "static/css/main.92c8411b.chunk.css.map": "/CHBChan/The-Odin-Project-CV-Application/static/css/main.92c8411b.chunk.css.map"
+  "main.css": "/static/css/main.92c8411b.chunk.css",
+  "main.js": "/static/js/main.b054ee40.chunk.js",
+  "main.js.map": "/static/js/main.b054ee40.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.85d2df72.chunk.js": "/static/js/2.85d2df72.chunk.js",
+  "static/js/2.85d2df72.chunk.js.map": "/static/js/2.85d2df72.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.fdbaf72f33b8de6adffb27b1381eb56d.js": "/precache-manifest.fdbaf72f33b8de6adffb27b1381eb56d.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.92c8411b.chunk.css.map": "/static/css/main.92c8411b.chunk.css.map"
 }
