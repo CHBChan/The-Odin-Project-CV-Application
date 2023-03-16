@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CHBChan/The-Odin-Project-CV-Application/precache-manifest.917ac798277ba9b2e580523517dee7a6.js"
+  "/CHBChan/The-Odin-Project-CV-Application/precache-manifest.64313c916d3da3a1e38a8a8045f0a91d.js"
 );
 
 workbox.clientsClaim();
